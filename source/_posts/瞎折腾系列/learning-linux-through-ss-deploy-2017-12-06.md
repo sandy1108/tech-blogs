@@ -1,5 +1,5 @@
 ---
-title: learning-linux-through-ss-deploy-2017-12-06
+title: 通过SS私有部署学习Linux服务部署
 categories:
   - 瞎折腾系列
 excerpt: 本文记录了SS部署的实践过程和一些体会，仅供学习讨论使用，**坚决抵制各种使用此类技术进行售卖、推广、传播科学上网渠道的违法行为。**

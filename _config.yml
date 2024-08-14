@@ -70,6 +70,11 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  # "Android折腾之路": android-player
+  # "iOS摸索之路": ios-player
+  # "AppCan经验分享": appcan-player
+  # "瞎折腾系列": everything-player
+  # "鸿蒙HarmonyOS应用开发": harmony-player
 tag_map:
 
 # Metadata elements
@@ -107,3 +112,8 @@ deploy:
   type: ''
 
 favicon: '/favicon.ico'
+
+# hexo-directory-category插件配置
+auto_dir_categorize:
+	enable: true  # options:true, false; default is true
+	force: true # options:true, false; default is false
