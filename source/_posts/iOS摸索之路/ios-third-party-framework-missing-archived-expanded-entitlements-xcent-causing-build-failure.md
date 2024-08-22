@@ -2,7 +2,7 @@
 title: iOS第三方framework库缺少archived-expanded-entitlements-xcent导致打包失败问题
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 打包时，run debug没有问题，但是archive后export会发生错误，无法进入到选择证书的环节。
 date: 2017-06-19 10:23:00
 tags: 
 ---

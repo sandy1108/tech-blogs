@@ -2,7 +2,7 @@
 title: Transporter上传ipa出错
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 现在iOS应用上传AppStore的工具，不再集成在Xcode中了，需要单独去AppStore下载Transporter应用。
 date: 2021-03-05 11:09:12
 tags: 
 ---

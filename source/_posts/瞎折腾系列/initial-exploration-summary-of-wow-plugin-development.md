@@ -2,7 +2,7 @@
 title: WOW插件开发初步探索总结
 categories: 
   - 瞎折腾系列
-excerpt: 
+excerpt: 任意文本编辑器：随便找个文本编辑器也是可以的。
 date: 2020-06-27 23:45:26
 tags: 
 ---

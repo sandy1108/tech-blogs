@@ -2,7 +2,7 @@
 title: Xcode工程中文件后面的版本管理的符号代表什么
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 这些标记是因为使用了Xcode自带的版本管理功能（Git等）
 date: 2017-03-26 19:56:58
 tags: 
 ---

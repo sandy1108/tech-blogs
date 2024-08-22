@@ -2,7 +2,7 @@
 title: Xcode9升级后使用静态库的问题
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 升级了xcode9beta版后，编译出来的.a静态库，放到xcode9以下的xcode中进行编译，结果出现了下面的错误：
 date: 2017-11-16 17:02:28
 tags: 
 ---

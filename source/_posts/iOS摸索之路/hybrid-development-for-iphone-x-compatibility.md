@@ -2,7 +2,7 @@
 title: iPhoneX适配之Hybrid开发
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 2017年9月苹果发布了iPhoneX。它的“新发型-齐刘海”很让程序猿们揪心。如何适配呢？由于AppCan的客户们逐渐的开始遇到iPhoneX适配问题了，那这里就以AppCan平台为例子，记录和分享一下适配过程。
 date: 2018-03-28 10:17:13
 tags: 
 ---

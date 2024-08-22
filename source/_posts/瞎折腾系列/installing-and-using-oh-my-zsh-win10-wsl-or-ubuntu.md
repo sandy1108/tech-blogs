@@ -2,7 +2,7 @@
 title: 安装使用oh-my-zsh（Win10+WSL或Ubuntu）
 categories: 
   - 瞎折腾系列
-excerpt: 
+excerpt: Windows Subsystem for Linux（简称WSL）是一个为在Windows 10上能够原生运行Linux二进制可执行文件（ELF格式）的兼容层。
 date: 2019-05-18 13:39:20
 tags: 
 ---

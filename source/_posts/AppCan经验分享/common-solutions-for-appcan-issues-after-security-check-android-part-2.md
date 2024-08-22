@@ -2,7 +2,7 @@
 title: AppCan应用在安全检测后的常见问题解决方案之Android篇（下）
 categories: 
   - AppCan经验分享
-excerpt: 
+excerpt: 具有下载apk功能的组件存在导出漏洞，并且未对组件调用者进行校验。攻
 date: 2017-04-14 09:47:51
 tags: 
 ---

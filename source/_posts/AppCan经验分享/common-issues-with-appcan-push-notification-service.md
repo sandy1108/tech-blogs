@@ -2,7 +2,7 @@
 title: AppCan消息推送服务使用常见问题
 categories: 
   - AppCan经验分享
-excerpt: 
+excerpt: 打包时开关设置中勾选推送功能，填写推送绑定接口（Android还需要另外填写Android推送接口，这个接口应只包含[ip地址]:[端口号]的形式）
 date: 2017-03-25 19:49:25
 tags: 
 ---

@@ -2,7 +2,7 @@
 title: 移动端利用SQLCipher加密数据库
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: SQLite目前已经是比较流行的数据存储操作的API了。Android和iOS系统提供的API中操作数据库默认均采用了SQLite方案。而SQLCipher是基于SQLite的加密数据库存取方案，集成相对比较快捷而且透明，在一定程度上保证了数据的安全。
 date: 2018-01-22 17:55:55
 tags: 
 ---

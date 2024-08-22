@@ -2,7 +2,7 @@
 title: Xcode通过修改project-pbxproj来更改Capabilities配置
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 项目中遇到了一个iOS的问题，需要调试。拿到了工程之后，直接打开，开启自动配置证书，随便写了个我调试常用的BundleID，竟然迎来了一个个的红色叹号
 date: 2017-04-13 20:15:00
 tags: 
 ---

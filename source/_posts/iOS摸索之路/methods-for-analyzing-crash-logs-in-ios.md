@@ -2,7 +2,7 @@
 title: iOS分析崩溃日志的一些途径
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 我在控制台抓取到了一个崩溃日志
 date: 2018-01-12 19:30:44
 tags: 
 ---

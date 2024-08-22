@@ -2,7 +2,7 @@
 title: Chrome56之后出的一个“坑”？Treat-Document-Level-Touch-Event-Listeners-as-Passiv
 categories: 
   - AppCan经验分享
-excerpt: 
+excerpt: 近期有很多开发者反馈说，在一些新版的Android系统中，AppCan应用的下拉刷新不管用了，拉不动。于是进行了排查，发现在下拉时WebView出现了下面的警告：
 date: 2018-02-05 17:23:00
 tags: 
 ---

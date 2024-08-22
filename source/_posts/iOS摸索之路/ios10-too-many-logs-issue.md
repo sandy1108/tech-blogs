@@ -2,7 +2,7 @@
 title: iOS10日志太多无法查看的问题
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 很多iOS开发在把自己的测试机升级到iOS10之后，发现再用Xcode或者iTools看日志时非常痛苦，因为打印了好多好多系统日志，刷的那叫一个快，眼花缭乱简直崩溃！
 date: 2017-03-25 15:41:27
 tags: 
 ---

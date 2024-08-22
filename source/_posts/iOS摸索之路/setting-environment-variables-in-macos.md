@@ -2,7 +2,7 @@
 title: MacOS中设置环境变量
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: 如果使用了iTerm，搭配zsh终端使用，上面的bash_profile环境变量就又没用了，因为那是给默认终端bash用的。
 date: 2017-04-26 21:22:16
 tags: 
 ---

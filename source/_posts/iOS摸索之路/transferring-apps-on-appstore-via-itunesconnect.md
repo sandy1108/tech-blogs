@@ -2,7 +2,7 @@
 title: ItunesConnect转移AppStore上的App
 categories: 
   - iOS摸索之路
-excerpt: 
+excerpt: A账号不准备继续运营X应用了，需要交接给另一个账号B。
 date: 2017-07-20 10:46:17
 tags: 
 ---

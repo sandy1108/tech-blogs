@@ -2,7 +2,7 @@
 title: 使用Chrome浏览器调试AppCan应用
 categories: 
   - AppCan经验分享
-excerpt: 
+excerpt: 此方法暂时仅支持Android 4.4以上系统。5.0以上效果更好。
 date: 2017-09-02 13:55:08
 tags: 
 ---
