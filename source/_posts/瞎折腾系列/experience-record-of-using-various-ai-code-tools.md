@@ -2,7 +2,7 @@
 title: AI写代码各种工具使用经历记录
 categories: 
   - 瞎折腾系列
-excerpt: 
+excerpt: 我回顾了自己使用AI编程工具的历程：从为Github Copilot惊艳，到因其收费而转向免费的Codeium作为主力。如今，我正探索AI Agent这类新工具，在试用多款后，发现Augment能真正理解我的代码库，成为了一名合格的编程伙伴，让我很满意。
 date: 2025-07-19 23:51:06
 tags: 
 ---
