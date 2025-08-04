@@ -2,7 +2,7 @@
 title: 鸿蒙使用Chrome调试WebView
 categories: 
   - 鸿蒙HarmonyOS启程之路
-excerpt: 
+excerpt: 在HarmonyOS开发中，我遇到了开启WebView调试后，`chrome://inspect`页面无法发现设备的问题。最新的DevEco Studio提供了一个便捷方法：在运行配置中勾选“Auto WebView Debug”即可自动转发端口。如果该方法失效或在旧版环境中，则需要通过`hdc shell`手动查找调试端口，并使用`hdc fport`命令将其转发至PC，从而解决调试问题。
 date: 2025-08-04 22:28:54
 tags: 
 ---
