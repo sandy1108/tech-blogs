@@ -11,6 +11,8 @@ tags:
 
 https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/web-debugging-with-devtools
 
+https://developer.huawei.com/consumer/cn/forum/topic/0208190002851211041?fid=0109140870620153026
+
 
 ## 代码层面前提
 
@@ -61,3 +63,13 @@ hdc fport tcp:9222 localabstract:webview_devtools_remote_38532
 localhost:9222
 ```
 
+## 特殊情况记录更新
+
+2025年8月初我的华为P70pro升级了鸿蒙5.1系统，结果发现开启多个WebView的时候，调试模式就会自动关闭，于是提了官方论坛询问，最后从回复中看意思是系统补丁中的小bug，可能会在后面修复。给了一个临时解决方案，就是代码层面pageBegin的时候先关后开：
+
+```
+webview.WebviewController.setWebDebuggingAccess(false);
+webview.WebviewController.setWebDebuggingAccess(true);
+```
+
+详见论坛帖子：https://developer.huawei.com/consumer/cn/forum/topic/0208190002851211041?fid=0109140870620153026
