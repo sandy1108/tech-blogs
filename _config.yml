@@ -107,6 +107,19 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: aomori
 
+# Aomori主题集成Giscus评论配置
+aomori_giscus:
+  enable: true
+  repo: 'sandy1108/tech-blogs'
+  repoId: 'R_kgDOMjC6IA'
+  category: 'tech-blogs-discussions'
+  categoryId: 'DIC_kwDOMjC6IM4Cup5C'
+  mapping: "title"
+  reactionsEnabled: 1
+  emitMetadata: 0
+  theme: 'light'
+  lang: 'zh-CN'
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
