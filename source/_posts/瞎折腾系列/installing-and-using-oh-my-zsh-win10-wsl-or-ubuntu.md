@@ -1,5 +1,5 @@
 ---
-title: 安装使用oh-my-zsh（Win10+WSL或Ubuntu）
+title: 安装使用oh-my-zsh（Win11+WSL或Ubuntu）（2025更新版）
 categories: 
   - 瞎折腾系列
 excerpt: Windows Subsystem for Linux（简称WSL）是一个为在Windows 10上能够原生运行Linux二进制可执行文件（ELF格式）的兼容层。
@@ -24,7 +24,7 @@ Windows Subsystem for Linux（简称WSL）是一个为在Windows 10上能够原�
 
 ## 启用WSL（Ubuntu）
 
-打开Win10应用商店，搜索Ubuntu，进行安装。安装成功后，在开始菜单中输入Ubuntu找到并启动linux终端。启动后，为了以后使用方便，我把他在任务栏上的图标，右键锁定在任务栏中了。
+打开Microsoft应用商店，搜索Ubuntu，进行安装。安装成功后，在开始菜单中输入Ubuntu找到并启动linux终端。启动后，为了以后使用方便，我把他在任务栏上的图标，右键锁定在任务栏中了。
 
 ### 透露一个小技巧
 
@@ -86,7 +86,7 @@ sudo apt-get install zsh
 zsh
 ```
 
-3. 网上有人说安装后重启WSL会自动回到bash终端，还需要设置默认终端才可以。不过我没有遇到这种情况。
+3. 网上有人说安装后重启WSL会自动回到bash终端，还需要设置默认终端才可以。这个确实是这样的，但是当进行了下面步骤，安装了Oh-My-Zsh的时候，安装向导中会指引你配置默认终端为zsh，所以就继续吧。
 
 
 ## 分割线：从此处往后，Win10、Ubuntu、Mac应该均适用
@@ -136,14 +136,24 @@ https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Reti
 
 ~/.oh-my-zsh中有个custom目录，其中可以存放自定义插件和主题。为了不影响原有的安装目录，我决定把新增的插件放到这里面。这里面有themes和plugins目录，看名字应该知道，其实是跟根目录下的对应文件夹功能是一致的。所以应该知道怎么用了吧。
 
-### （WSL）修改agnoster主题
+### （WSL）微调agnoster主题
 
-由于WSL中默认的agnoster主题，当前目录的高亮配色有点蛋疼，故进行修改：
+由于WSL中默认的agnoster主题，当前目录的高亮配色blue有点不太好看，故下面进行修改：
+
+2025小更新：近期由于重装了WSL，再次进行配置时，查看了一下agnoster主题中，这个blue配色已经提炼为一个变量了，所以我们可以不修改主题，直接在.zshrc文件中修改变量即可：
+
+```
+ZSH_THEME="agnoster"
+# 在这里覆盖主题变量
+AGNOSTER_DIR_BG=075
+```
+
+### （WSL）修改agnoster主题（方法已废弃）
 
 执行命令将原主题拷贝过来，并改名加上后缀_wsl：
 
 ```
-cp ~/.oh-my-zsh/theme/agnoster.zsh-theme ~/.oh-my-zsh/custom/theme/agnoster_wsl.zsh-theme
+cp ~/.oh-my-zsh/themes/agnoster.zsh-theme ~/.oh-my-zsh/custom/themes/agnoster_wsl.zsh-theme
 ```
 
 找到下面的部分：
@@ -156,6 +166,7 @@ prompt_dir() {
 将其中blue修改为075，这样颜色会更容易辨认了。（此处参考文章：https://www.cnblogs.com/Ricky81317/p/9062590.html）
 
 由于我们修改了主题名称，还需要去刚才的.zshrc配置文件修改主题为agnoster_wsl。这样，重启WSL就大功告成了。
+
 
 ### 配置主题后光标看不到了？
 
@@ -204,7 +215,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
 
 ```
-plugins=(zsh-autosuggestions)
+plugins=( [plugins...] zsh-autosuggestions)
 ```
 
 Start a new terminal session.
