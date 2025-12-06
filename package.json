@@ -29,5 +29,8 @@
   },
   "resolutions": {
     "strip-ansi": "6.0.1"
+  },
+  "devDependencies": {
+    "strip-ansi": "^6.0.1"
   }
 }
