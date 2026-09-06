@@ -131,3 +131,12 @@ favicon: '/favicon.ico'
 auto_dir_categorize:
 	enable: true  # options:true, false; default is true
 	force: true # options:true, false; default is false
+
+sitemap:
+  path: sitemap.xml
+  tag: false
+  category: false
+baidusitemap:
+  path: baidusitemap.xml
+  tag: flase
+  category: false
