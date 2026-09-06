@@ -138,5 +138,5 @@ sitemap:
   category: false
 baidusitemap:
   path: baidusitemap.xml
-  tag: flase
+  tag: false
   category: false
