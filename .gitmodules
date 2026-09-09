@@ -1,4 +1,4 @@
 [submodule "themes/febirdy"]
 	path = themes/febirdy
-	url = git@github.com:sandy1108/hexo-theme-febirdy.git
+	url = https://github.com/sandy1108/hexo-theme-febirdy.git
 	branch = master
