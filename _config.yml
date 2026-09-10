@@ -136,7 +136,3 @@ sitemap:
   path: sitemap.xml
   tag: false
   category: false
-baidusitemap:
-  path: baidusitemap.xml
-  tag: false
-  category: false
