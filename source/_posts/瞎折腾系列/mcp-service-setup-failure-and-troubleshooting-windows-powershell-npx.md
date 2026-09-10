@@ -5,6 +5,12 @@ categories:
 excerpt: 同一台机器，PowerShell 里 npx 一切正常，MCP 配置里却启动失败？最后发现是“命令跑在了 cmd，而我的 npx 依赖 PowerShell Profile/fnm 初始化”。这篇把定位过程、坑点清单、以及稳妥的解决方案整理一下。
 date: 2025-08-13 00:30:00
 tags:
+  - MCP
+  - PowerShell
+  - Windows
+  - VSCode
+  - npx
+  - 环境变量
 ---
 
 ## 背景

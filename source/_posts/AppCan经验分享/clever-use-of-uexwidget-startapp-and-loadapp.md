@@ -4,7 +4,13 @@ categories:
   - AppCan经验分享
 excerpt: 最初的uexWidget.loadApp，在Android中对应的是拼装Intent，iOS对应的是openURL。懂原生开发的应该知道，这样就可以做各种各样的事情，扩展性很强。
 date: 2017-12-20 19:27:12
-tags: 
+tags:
+  - AppCan
+  - uexWidget
+  - 跨应用调用
+  - Android
+  - iOS
+  - Hybrid开发
 ---
 
 # uexWidget.startApp和uexWidget.loadApp接口介绍

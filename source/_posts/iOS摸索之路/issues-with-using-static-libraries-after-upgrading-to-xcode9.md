@@ -4,7 +4,13 @@ categories:
   - iOS摸索之路
 excerpt: 升级了xcode9beta版后，编译出来的.a静态库，放到xcode9以下的xcode中进行编译，结果出现了下面的错误：
 date: 2017-11-16 17:02:28
-tags: 
+tags:
+  - iOS
+  - Xcode
+  - 静态库
+  - Framework
+  - SDK兼容性
+  - IOSurface
 ---
 
 # 问题详情

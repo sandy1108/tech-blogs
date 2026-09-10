@@ -4,7 +4,13 @@ categories:
   - AppCan经验分享
 excerpt: 此方法暂时仅支持Android 4.4以上系统。5.0以上效果更好。
 date: 2017-09-02 13:55:08
-tags: 
+tags:
+  - AppCan
+  - Android
+  - WebView
+  - ChromeDevTools
+  - 远程调试
+  - 调试
 ---
 
 [TOC]

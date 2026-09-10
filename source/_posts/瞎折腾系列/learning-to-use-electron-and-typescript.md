@@ -4,7 +4,13 @@ categories:
   - 瞎折腾系列
 excerpt: 本文主要是在空闲时间写点文章的时候，突然觉得编写hexo文章的步骤稍微有点繁琐，虽然也有一些Web的控制台插件，不过并没有去挨个尝试，因为本地操作其实就是一些目录目录，文件头，图片的存储，而很久之前就想要接触一下ElectronJS来弄一个Windows程序试试，这次干脆咬咬牙把这个想法实现了吧。（Flutter发展也很迅速，不过还是想先把之前的ElectronJS的“想法”实现了吧。）
 date: 2024-08-26 16:50:32
-tags: 
+tags:
+  - Electron
+  - TypeScript
+  - Vue3
+  - 桌面应用
+  - IPC
+  - Markdown编辑器
 ---
 
 # ElectronJS与Typescript的折腾

@@ -4,7 +4,12 @@ categories:
   - Android折腾之路
 excerpt: 公司自己的Android打包服务设计为离线使用，虽然环境可以联网，但是部署在某些客户的环境可能是不联网的。因此必须适应离线打包。
 date: 2021-03-04 12:05:30
-tags: 
+tags:
+  - Android
+  - Gradle
+  - Maven
+  - 离线构建
+  - 依赖管理
 ---
 
 ## 问题起源

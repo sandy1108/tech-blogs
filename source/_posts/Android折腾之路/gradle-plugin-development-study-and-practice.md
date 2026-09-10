@@ -4,7 +4,12 @@ categories:
   - Android折腾之路
 excerpt: Gradle插件开发学习和实践
 date: 2018-01-25 19:06:28
-tags: 
+tags:
+  - Android
+  - Gradle
+  - Gradle插件
+  - Groovy
+  - 构建工具
 ---
 # 本文链接
 

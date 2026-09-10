@@ -4,7 +4,13 @@ categories:
   - AppCan经验分享
 excerpt: 具有下载apk功能的组件存在导出漏洞，并且未对组件调用者进行校验。攻
 date: 2017-04-14 09:47:51
-tags: 
+tags:
+  - AppCan
+  - Android
+  - 安全检测
+  - SecureRandom
+  - HTTPS
+  - 证书校验
 ---
 
 # 继续问题列举

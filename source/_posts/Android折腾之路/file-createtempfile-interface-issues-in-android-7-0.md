@@ -5,6 +5,11 @@ categories:
 excerpt: 一个小问题
 date: 2017-03-25 19:59:00
 tags:
+  - Android
+  - Android7.0
+  - Java
+  - 文件操作
+  - 问题排查
 ---
 
 # 问题现象

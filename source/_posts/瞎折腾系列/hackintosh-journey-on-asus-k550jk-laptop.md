@@ -4,7 +4,13 @@ categories:
   - 瞎折腾系列
 excerpt: 作为一个搞了三年Android开发的，对于苹果的东西，本来我是拒绝的。我原来的想法是，我宁愿花时间去学习React、Vue、Angular这些前端框架，或者node.js、Python、PHP这些后端框架，也不会去浪费时间鼓捣iOS。
 date: 2017-03-21 11:14:13
-tags: 
+tags:
+  - 黑苹果
+  - Hackintosh
+  - macOS
+  - 华硕K550JK
+  - Clover
+  - DSDT
 ---
 
 # 远景帖子

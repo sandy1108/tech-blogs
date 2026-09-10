@@ -4,7 +4,12 @@ categories:
   - iOS摸索之路
 excerpt: 我在控制台抓取到了一个崩溃日志
 date: 2018-01-12 19:30:44
-tags: 
+tags:
+  - iOS
+  - 崩溃分析
+  - Crash日志
+  - dSYM
+  - Xcode
 ---
 
 # 准备

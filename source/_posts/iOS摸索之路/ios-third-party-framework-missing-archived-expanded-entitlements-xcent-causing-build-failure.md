@@ -4,7 +4,13 @@ categories:
   - iOS摸索之路
 excerpt: 打包时，run debug没有问题，但是archive后export会发生错误，无法进入到选择证书的环节。
 date: 2017-06-19 10:23:00
-tags: 
+tags:
+  - iOS
+  - Xcode
+  - Framework
+  - 打包失败
+  - 代码签名
+  - 归档
 ---
 
 # 问题

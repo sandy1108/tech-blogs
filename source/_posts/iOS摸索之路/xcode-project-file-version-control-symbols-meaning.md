@@ -4,7 +4,12 @@ categories:
   - iOS摸索之路
 excerpt: 这些标记是因为使用了Xcode自带的版本管理功能（Git等）
 date: 2017-03-26 19:56:58
-tags: 
+tags:
+  - iOS
+  - Xcode
+  - Git
+  - 版本控制
+  - 工程管理
 ---
 
 # 简明扼要

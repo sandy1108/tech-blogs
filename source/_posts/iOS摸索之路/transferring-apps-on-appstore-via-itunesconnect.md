@@ -4,7 +4,12 @@ categories:
   - iOS摸索之路
 excerpt: A账号不准备继续运营X应用了，需要交接给另一个账号B。
 date: 2017-07-20 10:46:17
-tags: 
+tags:
+  - iOS
+  - AppStore
+  - 应用转移
+  - 开发者账号
+  - 应用发布
 ---
 
 # 背景

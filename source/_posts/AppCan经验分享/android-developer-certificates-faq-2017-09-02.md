@@ -5,6 +5,12 @@ categories:
 excerpt: 本文针对AppCan平台开发应用时，经常遇到的Android证书问题做一个解释，但大多数概念是跟原生开发通用的~
 date: 2017-09-02 13:58:30
 tags:
+  - AppCan
+  - Android
+  - 应用签名
+  - 证书
+  - keytool
+  - 应用安全
 ---
 # 写在前面
 

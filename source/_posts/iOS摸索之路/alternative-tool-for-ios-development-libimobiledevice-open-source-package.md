@@ -4,7 +4,13 @@ categories:
   - iOS摸索之路
 excerpt: libimobiledevice又称libiphone，是一个开源包，可以让Linux支持连接iPhone/iPod Touch等iOS设备。由于苹果官方并不支持Linux系统，但是Linux上的高手绝对不能忍受因为要连接iOS设备就换用操作系统这个事儿。因此就有人逆向出iOS设备与Windows/Mac Host接口的通讯协议，最终成就了横跨三大桌面平台的非官方版本USB接口library。
 date: 2017-04-04 01:54:30
-tags: 
+tags:
+  - iOS
+  - libimobiledevice
+  - 设备调试
+  - 命令行
+  - Linux
+  - macOS
 ---
 
 # 简介

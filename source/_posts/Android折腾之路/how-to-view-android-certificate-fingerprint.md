@@ -4,7 +4,12 @@ categories:
   - Android折腾之路
 excerpt: 我们在高德、百度等这些第三方SDK的集成和注册时，都会让我们提供包名或者证书指纹（MD5、SHA-1、SHA-256）等信息，这些信息如何获取呢？有多种方法。
 date: 2019-07-09 11:44:55
-tags: 
+tags:
+  - Android
+  - 应用签名
+  - 证书
+  - keytool
+  - 指纹
 ---
 
 ## 用途

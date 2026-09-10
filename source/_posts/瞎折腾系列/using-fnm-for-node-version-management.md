@@ -5,6 +5,11 @@ categories:
 excerpt: 之前在MacOS中用过nvm来切换node版本，但是在windows里我一直没有交给自动管理，因为他们自动管理一般都会放在C盘用户目录中，而我的Windows的C盘总是害怕满了，不想放太多东西，另外C盘放东西多了也不方便重装系统。
 date: 2024-08-15 23:16:55
 tags:
+  - fnm
+  - Node.js
+  - Windows
+  - PowerShell
+  - 版本管理
 ---
 ## 前言：手动切换Node版本其实也不麻烦
 

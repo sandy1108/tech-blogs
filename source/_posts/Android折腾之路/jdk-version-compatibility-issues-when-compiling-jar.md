@@ -4,7 +4,12 @@ categories:
   - Android折腾之路
 excerpt: 需要生成jar包，提供给安卓编译使用，但是使用的安卓编译工具（buildTools）较低（小于19），不支持jdk7的jar包，此时可以通过如下几种方式解决。
 date: 2017-06-13 15:55:55
-tags: 
+tags:
+  - Android
+  - JDK
+  - Java
+  - JAR
+  - 构建兼容性
 ---
 
 # 问题

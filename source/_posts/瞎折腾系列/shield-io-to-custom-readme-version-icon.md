@@ -4,7 +4,12 @@ categories:
   - 瞎折腾系列
 excerpt: 原来是一个叫 **shields.io** 的网站做的，而且用法很简单。这里赶紧记下来，免得以后忘了，也顺便分享给可能需要的朋友。
 date: 2025-08-10 15:22:00
-tags: 
+tags:
+  - Shields.io
+  - GitHub
+  - README
+  - SVG
+  - 徽章
 ---
 
 # 今天学了个新东西：用 shields.io 给项目加点好看的徽章

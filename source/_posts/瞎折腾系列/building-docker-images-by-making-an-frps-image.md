@@ -4,7 +4,12 @@ categories:
   - 瞎折腾系列
 excerpt: 在本文中，我记录了如何通过 Dockerfile 脚本来为 frps 服务制作一个 Docker 镜像。我详细描述了从编写 Dockerfile、构建镜像，到如何通过端口映射或使用 host 网络模式运行容器的完整步骤。此外，我还补充了如何进入容器内部，以及将容器当前状态直接保存为新镜像等实用操作。
 date: 2022-09-22 11:25:47
-tags: 
+tags:
+  - Docker
+  - Dockerfile
+  - FRP
+  - 镜像构建
+  - 容器
 ---
 
 ## 本文源码

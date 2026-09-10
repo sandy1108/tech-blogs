@@ -4,7 +4,13 @@ categories:
   - 鸿蒙HarmonyOS启程之路
 excerpt: H5里拿到元素的CSS宽高与位置，传给ArkTS后想用原生View覆盖同位置，发现对不上。后来发现“CSS px × window.devicePixelRatio = 物理px”，再“物理px ÷ ArkUI density = vp”；后来又发现window.devicePixelRatio和ArkUI density相等，即“CSS px = vp”。
 date: 2025-08-19 20:15:00
-tags: 
+tags:
+  - HarmonyOS
+  - ArkWeb
+  - WebView
+  - 坐标转换
+  - 像素换算
+  - ArkUI
 ---
 
 ## 背景与起因

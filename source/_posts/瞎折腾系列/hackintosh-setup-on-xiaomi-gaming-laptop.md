@@ -4,7 +4,13 @@ categories:
   - 瞎折腾系列
 excerpt: 我这是7代CPU的顶配版，不是后来8月份发布的8代CPU的增强版哦。8代CPU的版本，目前我这里是没有机器的，可以等待其他大佬适配。
 date: 2018-05-14 16:53:28
-tags: 
+tags:
+  - 黑苹果
+  - Hackintosh
+  - macOS
+  - 小米游戏本
+  - Clover
+  - EFI
 ---
 
 # 写在前面

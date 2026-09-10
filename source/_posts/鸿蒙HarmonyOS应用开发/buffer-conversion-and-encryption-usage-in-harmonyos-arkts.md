@@ -4,7 +4,12 @@ categories:
   - 鸿蒙HarmonyOS启程之路
 excerpt: ArrayBuffer，Uint8Array，MD5，SHA-1，SHA-256，base64等等
 date: 2025-06-17 17:18:19
-tags: 
+tags:
+  - HarmonyOS
+  - ArkTS
+  - Buffer
+  - 数据转换
+  - 加密
 ---
 
 ## 导入Buffer模块

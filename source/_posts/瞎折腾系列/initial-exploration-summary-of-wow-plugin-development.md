@@ -4,7 +4,13 @@ categories:
   - 瞎折腾系列
 excerpt: 任意文本编辑器：随便找个文本编辑器也是可以的。
 date: 2020-06-27 23:45:26
-tags: 
+tags:
+  - 魔兽世界
+  - WOW插件
+  - Lua
+  - XML
+  - 插件开发
+  - VSCode
 ---
 
 ## 参考资料

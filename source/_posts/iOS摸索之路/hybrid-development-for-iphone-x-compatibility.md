@@ -4,7 +4,13 @@ categories:
   - iOS摸索之路
 excerpt: 2017年9月苹果发布了iPhoneX。它的“新发型-齐刘海”很让程序猿们揪心。如何适配呢？由于AppCan的客户们逐渐的开始遇到iPhoneX适配问题了，那这里就以AppCan平台为例子，记录和分享一下适配过程。
 date: 2018-03-28 10:17:13
-tags: 
+tags:
+  - iOS
+  - iPhoneX
+  - Hybrid开发
+  - WebView
+  - 安全区域
+  - AppCan
 ---
 
 # Hybrid开发针对iPhoneX的适配之路

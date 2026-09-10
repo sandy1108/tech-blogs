@@ -4,7 +4,12 @@ categories:
   -  鸿蒙HarmonyOS启程之路
 excerpt: 我在这篇文章中梳理了 HarmonyOS 中不同的 Context 类型。从总基类 `BaseContext`，到提供应用信息的 `Context` 和处理生命周期的 `ApplicationContext`，再到 `AbilityStageContext` 和功能丰富的 `UIAbilityContext`。最后，我还单独介绍了用于显示弹窗等 UI 操作的 `UIContext` 工具类，并说明了它们之间如何相互获取。
 date: 2025-06-05 23:45:12
-tags: 
+tags:
+  - HarmonyOS
+  - ArkTS
+  - Context
+  - UIAbility
+  - 应用开发
 ---
 
 

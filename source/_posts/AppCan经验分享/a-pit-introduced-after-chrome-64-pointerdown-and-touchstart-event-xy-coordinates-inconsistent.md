@@ -4,7 +4,13 @@ categories:
   - AppCan经验分享
 excerpt: 首先介绍问题背景：此项目的App是基于AppCan混合方式开发，大量使用了WebView。
 date: 2018-02-28 21:10:14
-tags: 
+tags:
+  - AppCan
+  - WebView
+  - Touch事件
+  - PointerEvent
+  - Chrome
+  - 移动端开发
 ---
 
 # 这是Chrome64之后出的一个“坑”吗？

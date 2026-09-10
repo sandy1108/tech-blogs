@@ -5,6 +5,12 @@ categories:
 excerpt: ArkWeb(WebView)与Http请求要共享会话时，Cookie经常是第一坑。本文记录从“invalid url”到“cookie value格式错误”的两轮排查，澄清NetworkKit的response.cookies并非原始Cookie串，给出从响应头提取Cookie并写入WebCookieManager的做法，以及常见错误码定位思路与注意事项。
 date: 2025-06-30 19:33:35
 tags:
+  - HarmonyOS
+  - ArkWeb
+  - HTTP
+  - Cookie
+  - 网络请求
+  - 问题排查
 ---
 
 ## 背景
