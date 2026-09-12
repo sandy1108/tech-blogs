@@ -4,7 +4,7 @@
 
 # Site
 title: 不爱折腾的码农不是好程序猿
-subtitle: ''
+subtitle: '所以，折腾起来吧！'
 description: '日常学习和记录分享，不定期更新'
 keywords:
 author: ZYP
@@ -125,9 +125,9 @@ febirdy_site:
     label: 个人传送门
 
 febirdy_home:
-  eyebrow: 移动终端与系统底层开发笔记
-  title: 记录代码、踩坑，以及每一次认真折腾的过程。
-  description: 专注 Android、HarmonyOS、iOS 与工程实践，记录真实问题、定位过程和可复用的解决方案。
+  eyebrow: 开发笔记
+  title: 记录开发典型案例、踩坑，以及每一次认真折腾的过程。
+  description: 专注 Android、HarmonyOS、iOS、Web 等各种工程实践，记录真实问题、定位过程和可复用的解决方案。
   feed_title: 最新文章
   feed_count_suffix: 篇技术沉淀
 
@@ -139,8 +139,8 @@ febirdy_about:
   tools: []
   links: []
 
-# Aomori主题集成Giscus评论配置
-aomori_giscus:
+# FEBIRDY主题集成Giscus评论配置
+febirdy_giscus:
   enable: true
   repo: 'sandy1108/tech-blogs'
   repoId: 'R_kgDOMjC6IA'
