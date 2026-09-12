@@ -107,6 +107,31 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: febirdy
 
+# FEBIRDY 主题的站点身份、首页和关于页文案。主题仓库只提供通用占位默认值。
+febirdy_site:
+  brand: FEBIRDY
+  brand_suffix: BLOG
+  brand_mark: FB
+  tagline: 不爱折腾的码农，不是好程序猿。
+  portal:
+    url: https://febirdy.com
+    label: 个人传送门
+
+febirdy_home:
+  eyebrow: 移动终端与系统底层开发笔记
+  title: 记录代码、踩坑，以及每一次认真折腾的过程。
+  description: 专注 Android、HarmonyOS、iOS 与工程实践，记录真实问题、定位过程和可复用的解决方案。
+  feed_title: 最新文章
+  feed_count_suffix: 篇技术沉淀
+
+febirdy_about:
+  name: ''
+  tagline: ''
+  quote: 把真实问题记录下来，让下一次排查少走一点弯路。
+  focus: []
+  tools: []
+  links: []
+
 # Aomori主题集成Giscus评论配置
 aomori_giscus:
   enable: true
