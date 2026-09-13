@@ -110,9 +110,9 @@ theme: febirdy
 # FEBIRDY 主题侧栏组件顺序。文章目录由主题独立渲染，不加入此列表。
 febirdy_widgets:
   - category
-  - tag
   - recent_posts
   - archive
+  - tag
 
 # FEBIRDY 主题的站点身份、首页和关于页文案。主题仓库只提供通用占位默认值。
 febirdy_site:
