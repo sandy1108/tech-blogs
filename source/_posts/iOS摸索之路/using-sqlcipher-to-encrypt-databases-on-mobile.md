@@ -10,7 +10,7 @@ tags:
   - SQLCipher
   - SQLite
   - 数据库加密
-  - 移动开发
+  - 移动端开发
 ---
 
 # 简介

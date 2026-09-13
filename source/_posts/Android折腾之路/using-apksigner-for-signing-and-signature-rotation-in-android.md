@@ -7,7 +7,7 @@ date: 2024-01-24 23:31:31
 tags:
   - Android
   - ApkSigner
-  - APK签名
+  - 应用签名
   - 签名轮换
   - 应用升级
 ---

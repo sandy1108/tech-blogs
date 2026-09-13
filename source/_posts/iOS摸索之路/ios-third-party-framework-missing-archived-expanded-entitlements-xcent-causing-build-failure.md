@@ -9,7 +9,7 @@ tags:
   - Xcode
   - Framework
   - 打包失败
-  - 代码签名
+  - 应用签名
   - 归档
 ---
 

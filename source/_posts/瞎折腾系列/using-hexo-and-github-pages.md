@@ -8,7 +8,6 @@ tags:
   - Hexo
   - GitHubPages
   - 博客搭建
-  - 静态网站
   - GitHubActions
 ---
 ## 前言
