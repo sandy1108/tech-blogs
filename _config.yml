@@ -152,6 +152,23 @@ febirdy_giscus:
   theme: 'light'
   lang: 'zh-CN'
 
+# Algolia 搜索：仅在三项公开配置和下方开关都有效时由 FEBIRDY 主题输出搜索入口。
+febirdy_search_algolia:
+  enable: true
+
+# Algolia 搜索索引。apiKey 是 Search-only key，可安全出现在前端；写入 key 只从环境变量读取。
+algolia:
+  appId: 'WH55748M55'
+  apiKey: '71eaf2c04773a3f530277e9926a4dd69'
+  indexName: 'tech-blogs-production'
+  fields:
+    - title
+    - excerpt:strip:truncate,0,500
+    - tags
+    - categories
+    - permalink
+    - date
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

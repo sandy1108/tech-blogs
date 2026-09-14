@@ -37,6 +37,17 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Update Algolia index
+        env:
+          # 插件沿用此环境变量名；Secret 的值应是仅允许目标索引写入的受限 indexing key。
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+        run: |
+          if [ -z "$ALGOLIA_ADMIN_API_KEY" ]; then
+            echo "ALGOLIA_ADMIN_API_KEY 未配置，跳过 Algolia 索引更新。"
+            exit 0
+          fi
+          npx hexo algolia
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
