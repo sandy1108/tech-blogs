@@ -2,7 +2,7 @@
 title: iOS分析崩溃日志的一些途径
 categories: 
   - iOS摸索之路
-excerpt: 我在控制台抓取到了一个崩溃日志
+excerpt: 记录使用崩溃日志、IPA与dSYM，通过dwarfdump校验UUID并定位iOS崩溃地址的基本流程。
 date: 2018-01-12 19:30:44
 tags:
   - iOS
@@ -10,6 +10,7 @@ tags:
   - Crash日志
   - dSYM
   - Xcode
+  - 故障排查
 ---
 
 # 准备

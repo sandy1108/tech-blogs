@@ -1,5 +1,5 @@
 ---
-title: Windows Powershell体验增强优化配置
+title: Windows PowerShell体验增强优化配置
 categories:
   - 瞎折腾系列
 excerpt: 默认的Windows PowerShell自动补全功能比较基础，只能补全文件路径和基础命令，体验不够友好。通过安装一些增强模块，可以大幅提升PowerShell的自动补全体验，让命令行操作更加高效便捷。
@@ -151,4 +151,3 @@ Import-Module PSFzf
 ```
 
 4. 这样，重启powershell，就可以使用PSFzf了。可以使用快捷键Ctrl+R进行模糊搜索，Ctrl+T进行模糊切换目录。
-

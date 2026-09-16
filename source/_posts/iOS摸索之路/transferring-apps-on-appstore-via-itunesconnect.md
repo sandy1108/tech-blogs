@@ -1,8 +1,8 @@
 ---
-title: ItunesConnect转移AppStore上的App
+title: iTunesConnect转移AppStore上的App
 categories: 
   - iOS摸索之路
-excerpt: A账号不准备继续运营X应用了，需要交接给另一个账号B。
+excerpt: 记录在iTunesConnect中将App从一个开发者账号转移到另一个账号的适用场景、前置条件和完整操作步骤。
 date: 2017-07-20 10:46:17
 tags:
   - iOS

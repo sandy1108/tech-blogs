@@ -6,7 +6,6 @@ excerpt: 作为一个搞了三年Android开发的，对于苹果的东西，本�
 date: 2017-03-21 11:14:13
 tags:
   - 黑苹果
-  - Hackintosh
   - macOS
   - 华硕K550JK
   - Clover

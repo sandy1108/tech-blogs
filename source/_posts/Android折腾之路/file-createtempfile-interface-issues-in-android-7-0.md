@@ -2,11 +2,11 @@
 title: Android7-0中File-createTempFile接口异常的问题
 categories:
   - Android折腾之路
-excerpt: 一个小问题
+excerpt: 记录Android 7.0中File.createTempFile抛出Unable to create temporary file异常的现象、排查过程，以及改用普通文件创建接口的临时处理方案。
 date: 2017-03-25 19:59:00
 tags:
   - Android
-  - Android7.0
+  - Android7-0
   - Java
   - 文件操作
   - 故障排查

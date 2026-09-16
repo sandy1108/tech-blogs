@@ -11,6 +11,7 @@ tags:
   - 桌面应用
   - IPC
   - Markdown编辑器
+  - Hexo
 ---
 
 # ElectronJS与Typescript的折腾
@@ -340,6 +341,5 @@ https://www.naiveui.com/zh-CN/dark
 最终打包脚本的配置
 
 https://www.electron.build/
-
 
 

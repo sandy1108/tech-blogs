@@ -2,7 +2,7 @@
 title: Gradle插件开发学习和实践
 categories: 
   - Android折腾之路
-excerpt: Gradle插件开发学习和实践
+excerpt: 基于Gradle 4.1和Android Gradle Plugin 3.0.1，记录Groovy Gradle插件的工程结构、入口配置、Task创建、调试与自动化发布实践。
 date: 2018-01-25 19:06:28
 tags:
   - Android
@@ -10,6 +10,7 @@ tags:
   - Gradle插件
   - Groovy
   - 构建工具
+  - 插件开发
 ---
 # 本文链接
 
@@ -386,5 +387,4 @@ plugin.extension.sdkDirectory
 [使用Groovy操作文件](https://yq.aliyun.com/articles/25684)
 
 [Gradle User Guide 中文版](http://wiki.jikexueyuan.com/project/GradleUserGuide-Wiki/)
-
 

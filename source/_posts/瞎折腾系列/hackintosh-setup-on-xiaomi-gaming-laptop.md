@@ -6,7 +6,6 @@ excerpt: 我这是7代CPU的顶配版，不是后来8月份发布的8代CPU的�
 date: 2018-05-14 16:53:28
 tags:
   - 黑苹果
-  - Hackintosh
   - macOS
   - 小米游戏本
   - Clover

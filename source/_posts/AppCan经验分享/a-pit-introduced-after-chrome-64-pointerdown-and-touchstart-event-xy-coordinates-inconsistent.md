@@ -2,7 +2,7 @@
 title: Chrome64之后出的一个“坑”？pointerdown事件与touchstart事件的xy坐标不一致
 categories: 
   - AppCan经验分享
-excerpt: 首先介绍问题背景：此项目的App是基于AppCan混合方式开发，大量使用了WebView。
+excerpt: 记录AppCanWebView在Chrome64内核下pointerdown与touchstart坐标不一致的问题、触发原因及兼容处理方案。
 date: 2018-02-28 21:10:14
 tags:
   - AppCan
@@ -11,6 +11,7 @@ tags:
   - PointerEvent
   - Chrome
   - 移动端开发
+  - 故障排查
 ---
 
 # 这是Chrome64之后出的一个“坑”吗？

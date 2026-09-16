@@ -2,7 +2,7 @@
 title: 鸿蒙ArkTS中各种Buffer转换与加密的使用
 categories: 
   - 鸿蒙HarmonyOS启程之路
-excerpt: ArrayBuffer，Uint8Array，MD5，SHA-1，SHA-256，base64等等
+excerpt: 整理HarmonyOSArkTS中Buffer、ArrayBuffer与Uint8Array的转换方法，以及MD5、SHA、Base64、十六进制等常见加解密场景。
 date: 2025-06-17 17:18:19
 tags:
   - HarmonyOS
