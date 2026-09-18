@@ -1,7 +1,7 @@
 ---
 title: WebView中H5元素尺寸与原生视图坐标不一致的排查
 categories: 
-  - 鸿蒙HarmonyOS启程之路
+  - 鸿蒙HarmonyOS应用开发
 excerpt: H5里拿到元素的CSS宽高与位置，传给ArkTS后想用原生View覆盖同位置，发现对不上。后来发现“CSS px × window.devicePixelRatio = 物理px”，再“物理px ÷ ArkUI density = vp”；后来又发现window.devicePixelRatio和ArkUI density相等，即“CSS px = vp”。
 date: 2025-08-19 20:15:00
 tags:
@@ -92,4 +92,3 @@ const density = metrics.density; // 如 2.0 / 3.0 / 3.375 等
 ## 论坛中提供的其他可选方案
 
 - 同层渲染原生组件：从根上减少对齐难度，适合新项目或可改造页面；受限于历史 H5 兼容，暂不采用。
-

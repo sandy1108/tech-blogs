@@ -1,7 +1,7 @@
 ---
 title: 鸿蒙ArkTS与ArkWeb交互中的字符串转义问题与修复
 categories: 
-  - 鸿蒙HarmonyOS启程之路
+  - 鸿蒙HarmonyOS应用开发
 excerpt: 我在鸿蒙版AppCan框架的开发中，遇到一个场景，服务端通过http接口返回的JSON内嵌HTML，但因未对其中双引号的转义进行保护，导致前端JSON.parse报错。看似错误离奇，实则是开发过程中思考不够谨慎所致，并不是什么新鲜bug。故记录以提醒自己。
 date: 2025-08-09 13:07:43
 tags:
