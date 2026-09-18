@@ -40,6 +40,8 @@ tags:
 
 但是问题来了，如何让笔记在这么多设备之间进行同步呢？Obsidian官方提供了同步服务，但是这样会将笔记上到它的云上，而且这个服务是收费的。所以我把目光看向了开源免费的Fast Note Sync。
 
+![fns-web-console-screenshot.png](fns-web-console-screenshot.png)
+
 ## Fast Note Sync：把同步这件事单独交给一个服务
 
 普通网盘、Git 或手工复制的各种方法显然都是很麻烦不靠谱的。所以最终我使用了开源的 Fast Note Sync。它由 Obsidian 插件和服务端组成，专门负责把知识库文件同步到不同设备。
